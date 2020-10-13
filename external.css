@@ -1,0 +1,26 @@
+h1{
+border:dotted;
+color:Dodgerblue;
+font-family:verdana;
+background-color:lightblue;
+}
+
+body{
+background-color:lightgreen;
+}
+
+p {
+font-family:calibri;
+font-size:20px;
+}
+img.Leftfloat
+{
+float:left;
+margin:4px;
+}
+table{
+font-family:calibri;
+font-size:20px;
+background-color:SlateBlue;
+}
+
